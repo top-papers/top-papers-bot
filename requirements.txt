@@ -1,0 +1,12 @@
+requests
+nest-asyncio
+python-telegram-bot
+arxiv
+biopython
+libgen-api-enhanced
+aiohttp
+asyncpg
+g4f
+tqdm
+apscheduler
+pytz
