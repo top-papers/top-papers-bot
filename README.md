@@ -126,11 +126,11 @@ export ENTREZ_EMAIL="your_email@example.com"
 
 ### 2.4. Установка зависимостей Python
 
-Убедитесь, что установлены все необходимые пакеты. Если файл зависимостей (`requirements.txt`) присутствует, установите их командой:
+Убедитесь, что установлены все необходимые пакеты. Установите их командой:
 ```bash
 pip install -r requirements.txt
 ```
-*Если файла нет, установите вручную:*
+*Либо установите пакеты вручную:*
 ```bash
 pip install python-telegram-bot asyncpg nest_asyncio APScheduler pytz arxiv biopython libgen_api_enhanced tqdm aiohttp g4f
 ```
