@@ -7,4 +7,4 @@
 | visualcomments | [@visualcomments](https://github.com/visualcomments) |
 | Sikamov | [@Sikamov](https://github.com/Sikamov) |
 | DysprosiumS | [@DysprosiumS](https://github.com/DysprosiumS) |
-| Fatkullin-TM | [@DysprosiumS](https://github.com/Fatkullin-TM) |
+| Fatkullin-TM | [@Fatkullin-TM](https://github.com/Fatkullin-TM) |
